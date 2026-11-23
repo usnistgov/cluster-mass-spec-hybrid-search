@@ -1,8 +1,10 @@
 # cluster-mass-spec-hybrid-search
 
-Implementation of techniques described in the manuscript 
+Implementation of techniques described in the Forensic Chemistry manuscript 
 
 **Clustering and Multidimensional Scaling of Hybrid Similarity Search Results: Application to Illicit Drug Mass Spectra**
+
+[10.1016/j.forc.2026.100795](https://doi.org/10.1016/j.forc.2026.100795)
 
 Melinda A. Kleczynski (National Institute of Standards and Technology, Georgetown University)
 
